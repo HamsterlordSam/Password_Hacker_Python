@@ -1,0 +1,18 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Password Hacker (Python)/*
+!/Password Hacker (Python)/task/
+/Password Hacker (Python)/task/*
+!/Password Hacker (Python)/task/hacking
+!/Password Hacker (Python)/task/logins.txt
+!/Password Hacker (Python)/task/test
